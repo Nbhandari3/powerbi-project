@@ -6,7 +6,7 @@
 A comprehensive COVID-19 data analysis dashboard built in Power BI, 
 visualizing global pandemic trends across 3 analytical views.
 
----
+**[▶ Live Dashboard](https://app.powerbi.com/groups/me/reports/463aa0af-3f14-457e-9cf3-e257f63c8d8d/a22aa79714737ede2791?experience=power-bi)** · **[📁 Repo](https://github.com/Nbhandari3/COVID19_POWERBI)**
 
 ## Dashboard Pages
 
